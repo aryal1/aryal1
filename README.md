@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryal1 and I am an aspiring enterpreneur.
-- 👀 I’m interested in phychology, philosophy, music, physics and computer science.
-- 🌱 I’m currently learning machine learning. I also try to develop my progragramming skills.
+- 👀 I’m interested in psychology, philosophy, music, physics and computer science.
+- 🌱 I’m currently physics undergrad.
 - 💞️ I’m looking to collaborate with anyone, If you would like to work with me on something and share your knowledge, I would be extremely greatful.
 
 
