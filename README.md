@@ -1,4 +1,4 @@
-Physics undergrad student in Warsaw, passionate about anything analitic.
+Physics undergrad student in Warsaw, passionate about anything analytic.
 
 
 <!---
