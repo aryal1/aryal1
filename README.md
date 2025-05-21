@@ -1,4 +1,4 @@
-Physics undergrad student in Warsaw, passionate about anything analytic.
+Physics undergrad student in Warsaw passionate about anything analytic. Currently interested in machine learing, bayesian inference and MCMC algorithms.
 
 
 <!---
